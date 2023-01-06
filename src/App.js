@@ -12,7 +12,7 @@ import Testimonials from "./components/Testimonial";
 
 function App() {
   return (
-   <main>
+   <main className="text-gray-400 bg-gray-900 body-font">
 <About />
 <Contact />
 <Home />
